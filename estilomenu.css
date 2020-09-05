@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+}
+header {
+    color: white;
+    font: normal 10pt arial;
+    text-align: center;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    font: normal 15pt arial;
+    width: 500px;
+    margin: auto;
+    color: gray;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.404);
+    cursor: pointer;
+}
+div {
+    text-align: center;
+    margin-bottom: auto;
+    font: normal 25pt arial;
+}

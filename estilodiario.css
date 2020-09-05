@@ -1,0 +1,26 @@
+body{
+    background-color: orange;
+}
+section#div {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    font: normal 15pt arial;
+    width: 175px;
+    margin: auto;
+    color: gray;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.404);
+    cursor: pointer;
+}
+div#voltar {
+    text-align: center;
+    margin-bottom: auto;
+    font: normal 17pt arial;
+}
+input{
+    vertical-align: text-top;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 1225px;
+    height: 540px;
+}
